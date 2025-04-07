@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 5f67d423-a339-46c8-959a-6ad7cf5aa13a
+      url: 'https://neon-manatee-c77478.netlify.app'
